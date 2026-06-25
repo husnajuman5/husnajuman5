@@ -1,16 +1,47 @@
-## Hi there 👋
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/23988546-4710-4da7-89fd-73d750d9df7d" />
+<p align="center">
+<img src="YOUR_BANNER_LINK" width="100%">
+</p>
+# 👋 Hi, I'm Husna Juman
 
-<!--
-**husnajuman5/husnajuman5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI/ML Enthusiast | Full Stack Developer | CSE Student
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering
+📍 SRM Institute of Science and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 Exploring AI & Machine Learning
+- 🌐 Building Full Stack Projects
+- 💡 Interested in Intelligent Systems
+- 🎨 Creative + Tech
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue)
+![C++](https://img.shields.io/badge/C++-00599C)
+![Java](https://img.shields.io/badge/Java-orange)
+![HTML](https://img.shields.io/badge/HTML-E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6)
+
+---
+
+## 🌐 Connect
+
+GitHub: github.com/husnajuman5
+
+LinkedIn:
+linkedin.com/in/husna-juman
+
+Instagram:
+@hu.sna_juman_
+
+![Stats](https://github-readme-stats.vercel.app/api?username=husnajuman5&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husnajuman5)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=husnajuman5)]()
