@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/80a5b401-20b7-4bbd-b479-3567139ee0a6" width="100%">
+<img src="https://github.com/user-attachments/assets/c06a58ea-98b1-4e49-8888-4a83a8b3a188" width="100%">
 </p>
+
 
 <h1 align="center">Husna Juman</h1>
 
