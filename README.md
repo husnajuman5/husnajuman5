@@ -4,7 +4,7 @@
 <img src="YOUR_BANNER_LINK" width="100%">
 </p>
 
-<h1 align="center">✨ Husna Juman ✨</h1>
+<h1 align="center"> Husna Juman </h1>
 
 <h3 align="center">
 Software Developer • AI Enthusiast • Full Stack Developer
