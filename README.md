@@ -97,27 +97,18 @@ Worked on Python-based full stack application development and gained practical e
 
 ---
 
-# 🏆 Certifications
-
+🏆 Certifications
 🥇 SAP Certified – Back-End Developer – ABAP Cloud
-
 🥇 NPTEL Elite – Introduction to Machine Learning
-
 🥈 Programming in Java – NPTEL
-
 🥈 Introduction to Database Systems – NPTEL
-
 🏅 Python Full Stack Developer Virtual Internship
-
 
 ---
 
-# 🏅 Achievements
-
+🏅 Achievements
 🥈 Pentathon 2.0 — Second Prize
-
 🏆 TechKnow — Best Project (Fire Fighting Robot)
-
 🏅 SharpAIthon 2025 — Round 2 Shortlisted
 
 
@@ -155,6 +146,9 @@ Worked on Python-based full stack application development and gained practical e
 
 💻 GitHub
 [husnajuman5](https://github.com/husnajuman5)
+
+📷 Instagram
+@hu.sna_juman_
 
 ---
 
