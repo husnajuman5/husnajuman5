@@ -98,19 +98,19 @@ Worked on Python-based full stack application development and gained practical e
 
 # 🏆 Certifications
 
-* 🥇 SAP Certified – Back-End Developer – ABAP Cloud
-* 🥇 NPTEL Elite – Introduction to Machine Learning
-* 🥈 Programming in Java – NPTEL
-* 🥈 Introduction to Database Systems – NPTEL
-* 🏅 Python Full Stack Developer Virtual Internship
+* SAP Certified – Back-End Developer – ABAP Cloud
+* NPTEL Elite – Introduction to Machine Learning
+* Programming in Java – NPTEL
+* Introduction to Database Systems – NPTEL
+* Python Full Stack Developer Virtual Internship
 
 ---
 
 # 🏅 Achievements
 
-* 🥈 Pentathon 2.0 — Second Prize
-* 🏆 TechKnow — Best Project (Fire Fighting Robot)
-* 🏅 SharpAIthon 2025 — Round 2 Shortlisted
+* Pentathon 2.0 — Second Prize
+* TechKnow — Best Project (Fire Fighting Robot)
+* SharpAIthon 2025 — Round 2 Shortlisted
 
 ---
 
