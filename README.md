@@ -1,14 +1,18 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/23988546-4710-4da7-89fd-73d750d9df7d" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/80a5b401-20b7-4bbd-b479-3567139ee0a6" />
 
 <p align="center">
 <img src="YOUR_BANNER_LINK" width="100%">
 </p>
 
-<h1 align="center"> Husna Juman </h1>
+<h1 align="center">Husna Juman</h1>
 
 <h3 align="center">
 Software Developer • AI Enthusiast • Full Stack Developer
 </h3>
+
+<p align="center">
+Building software that combines creativity, intelligence, and real-world impact.
+</p>
 
 <p align="center">
 🎓 B.Tech Computer Science Engineering (2023–2027)<br>
@@ -16,25 +20,21 @@ Software Developer • AI Enthusiast • Full Stack Developer
 📍 Chennai, India
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=husnajuman5&label=Profile%20Views&color=4F46E5&style=flat"/>
-</p>
-
 ---
 
 # 👩‍💻 About Me
 
-Computer Science Engineering student passionate about building software solutions through Artificial Intelligence, Full Stack Development, and real-world projects.
+Computer Science Engineering student passionate about building software solutions through Artificial Intelligence, Full Stack Development, and practical real-world projects.
 
-Focused on learning, building, and turning ideas into practical applications.
+Focused on learning, creating, and turning ideas into meaningful applications.
 
 Current interests:
 
-✨ Artificial Intelligence & Machine Learning
-✨ Full Stack Development
-✨ Software Engineering
-✨ Prompt Engineering
-✨ Human-Centered Technology
+* Artificial Intelligence & Machine Learning
+* Full Stack Development
+* Software Engineering
+* Prompt Engineering
+* Human-Centered Technology
 
 ---
 
@@ -122,11 +122,11 @@ Worked on Python-based full stack application development and gained practical e
 
 ---
 
-# 🌱 Currently Building
+# 🚧 Currently Exploring
 
 🔹 AI Navigation System
 🔹 Prompt Engineering Projects
-🔹 Full Stack Development Portfolio
+🔹 Full Stack Development
 🔹 Real-World Software Projects
 
 ---
@@ -161,6 +161,6 @@ https://github.com/husnajuman5
 
 <p align="center">
 
-⭐ Building software with creativity and real-world impact.
+Code • Learn • Build • Repeat
 
 </p>
