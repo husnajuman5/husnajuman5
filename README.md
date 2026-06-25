@@ -1,7 +1,5 @@
-"https://github.com/user-attachments/assets/80a5b401-20b7-4bbd-b479-3567139ee0a6" 
-
 <p align="center">
-<img src="YOUR_BANNER_LINK" width="100%">
+<img src="https://github.com/user-attachments/assets/80a5b401-20b7-4bbd-b479-3567139ee0a6" width="100%">
 </p>
 
 <h1 align="center">Husna Juman</h1>
