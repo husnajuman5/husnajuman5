@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/80a5b401-20b7-4bbd-b479-3567139ee0a6" />
+"https://github.com/user-attachments/assets/80a5b401-20b7-4bbd-b479-3567139ee0a6" 
 
 <p align="center">
 <img src="YOUR_BANNER_LINK" width="100%">
