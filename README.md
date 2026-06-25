@@ -26,7 +26,7 @@ Computer Science Engineering student passionate about building software solution
 
 Focused on learning, creating, and turning ideas into meaningful applications.
 
-Current interests:
+### Current Interests
 
 * Artificial Intelligence & Machine Learning
 * Full Stack Development
@@ -64,25 +64,25 @@ Current interests:
 
 ## 👨‍🦯 AI Navigation for Visually Impaired Individuals
 
-Built an accessibility-focused navigation assistant using object detection, OCR, and intelligent guidance to support visually impaired individuals.
+Accessibility-focused navigation assistant using object detection, OCR, and intelligent guidance.
 
 ---
 
 ## ✨ AI Prompt Refiner
 
-Developed an iterative prompt refinement workflow to improve prompt quality and enhance generative AI outputs.
+Iterative prompt refinement workflow designed to improve generative AI outputs.
 
 ---
 
 ## 🏥 Hospital Management System
 
-Designed a database-driven healthcare platform for appointments, patient records, and management.
+Database-driven healthcare platform for appointments and patient management.
 
 ---
 
 ## 💱 Currency Converter
 
-Built a responsive conversion application focused on usability and clean implementation.
+Responsive utility for simple and efficient currency conversion.
 
 ---
 
@@ -92,20 +92,16 @@ Built a responsive conversion application focused on usability and clean impleme
 
 🏢 EduSkills Academy | Apr 2025 – Jun 2025
 
-Worked on Python-based full stack application development and gained practical exposure to software development workflows.
+Worked on Python-based full stack application development and gained practical exposure to development workflows.
 
 ---
 
 # 🏆 Certifications
 
 🥇 SAP Certified – Back-End Developer – ABAP Cloud
-
 🥇 NPTEL Elite – Introduction to Machine Learning
-
 🥈 Programming in Java – NPTEL
-
 🥈 Introduction to Database Systems – NPTEL
-
 🏅 Python Full Stack Developer Virtual Internship
 
 ---
@@ -113,9 +109,7 @@ Worked on Python-based full stack application development and gained practical e
 # 🏅 Achievements
 
 🥈 Pentathon 2.0 — Second Prize
-
 🏆 TechKnow — Best Project (Fire Fighting Robot)
-
 🏅 SharpAIthon 2025 — Round 2 Shortlisted
 
 ---
@@ -140,9 +134,7 @@ Worked on Python-based full stack application development and gained practical e
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=husnajuman5"/>
-
 </p>
 
 ---
@@ -150,15 +142,13 @@ Worked on Python-based full stack application development and gained practical e
 # 📫 Connect With Me
 
 💼 LinkedIn
-https://linkedin.com/in/husna-juman
+[husna-juman](https://linkedin.com/in/husna-juman)
 
 💻 GitHub
-https://github.com/husnajuman5
+[husnajuman5](https://github.com/husnajuman5)
 
 ---
 
 <p align="center">
-
 Code • Learn • Build • Repeat
-
 </p>
