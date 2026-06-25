@@ -2,7 +2,6 @@
 <img src="https://github.com/user-attachments/assets/c06a58ea-98b1-4e49-8888-4a83a8b3a188" width="100%">
 </p>
 
-
 <h1 align="center">Husna Juman</h1>
 
 <h3 align="center">
@@ -97,29 +96,30 @@ Worked on Python-based full stack application development and gained practical e
 
 ---
 
-🏆 Certifications
-🥇 SAP Certified – Back-End Developer – ABAP Cloud
-🥇 NPTEL Elite – Introduction to Machine Learning
-🥈 Programming in Java – NPTEL
-🥈 Introduction to Database Systems – NPTEL
-🏅 Python Full Stack Developer Virtual Internship
+# 🏆 Certifications
+
+* 🥇 SAP Certified – Back-End Developer – ABAP Cloud
+* 🥇 NPTEL Elite – Introduction to Machine Learning
+* 🥈 Programming in Java – NPTEL
+* 🥈 Introduction to Database Systems – NPTEL
+* 🏅 Python Full Stack Developer Virtual Internship
 
 ---
 
-🏅 Achievements
-🥈 Pentathon 2.0 — Second Prize
-🏆 TechKnow — Best Project (Fire Fighting Robot)
-🏅 SharpAIthon 2025 — Round 2 Shortlisted
+# 🏅 Achievements
 
+* 🥈 Pentathon 2.0 — Second Prize
+* 🏆 TechKnow — Best Project (Fire Fighting Robot)
+* 🏅 SharpAIthon 2025 — Round 2 Shortlisted
 
 ---
 
 # 🚧 Currently Exploring
 
-🔹 AI Navigation System
-🔹 Prompt Engineering Projects
-🔹 Full Stack Development
-🔹 Real-World Software Projects
+* AI Navigation System
+* Prompt Engineering Projects
+* Full Stack Development
+* Real-World Software Projects
 
 ---
 
@@ -148,7 +148,7 @@ Worked on Python-based full stack application development and gained practical e
 [husnajuman5](https://github.com/husnajuman5)
 
 📷 Instagram
-@hu.sna_juman_
+[@hu.sna_juman_](https://www.instagram.com/hu.sna_juman_/)
 
 ---
 
