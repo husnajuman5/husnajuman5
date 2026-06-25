@@ -1,4 +1,5 @@
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/23988546-4710-4da7-89fd-73d750d9df7d" />
+
 <p align="center">
 <img src="YOUR_BANNER_LINK" width="100%">
 </p>
@@ -6,7 +7,7 @@
 <h1 align="center">✨ Husna Juman ✨</h1>
 
 <h3 align="center">
-Software Development • Artificial Intelligence • Full Stack Development
+Software Developer • AI Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
@@ -16,24 +17,24 @@ Software Development • Artificial Intelligence • Full Stack Development
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=husnajuman5&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=husnajuman5&label=Profile%20Views&color=4F46E5&style=flat"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm a Computer Science Engineering student passionate about creating software solutions that combine technology, usability, and real-world impact.
+Computer Science Engineering student passionate about building software solutions through Artificial Intelligence, Full Stack Development, and real-world projects.
 
-💡 Interested in:
+Focused on learning, building, and turning ideas into practical applications.
 
-* Artificial Intelligence
-* Full Stack Development
-* Software Engineering
-* Prompt Engineering
-* Human-Centered Technology
+Current interests:
 
-🚀 Constantly learning through projects, hackathons, certifications, and hands-on development.
+✨ Artificial Intelligence & Machine Learning
+✨ Full Stack Development
+✨ Software Engineering
+✨ Prompt Engineering
+✨ Human-Centered Technology
 
 ---
 
@@ -42,67 +43,71 @@ I'm a Computer Science Engineering student passionate about creating software so
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
 
-### Development
+### Development & Tools
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
 ### AI & Data
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-green?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-purple?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-34A853?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=for-the-badge)
 
 ---
 
 # 🚀 Featured Projects
 
-### 👨‍🦯 AI Navigation for Visually Impaired Individuals
+## 👨‍🦯 AI Navigation for Visually Impaired Individuals
 
-AI-powered navigation system using object detection, OCR, and intelligent guidance to improve accessibility.
-
----
-
-### ✨ AI Prompt Refiner
-
-Prompt refinement workflow designed to improve generative AI response quality.
+Built an accessibility-focused navigation assistant using object detection, OCR, and intelligent guidance to support visually impaired individuals.
 
 ---
 
-### 🏥 Hospital Management System
+## ✨ AI Prompt Refiner
 
-Database-driven healthcare management platform.
+Developed an iterative prompt refinement workflow to improve prompt quality and enhance generative AI outputs.
 
 ---
 
-### 💱 Currency Converter
+## 🏥 Hospital Management System
 
-Simple responsive utility for real-time conversion.
+Designed a database-driven healthcare platform for appointments, patient records, and management.
+
+---
+
+## 💱 Currency Converter
+
+Built a responsive conversion application focused on usability and clean implementation.
 
 ---
 
 # 💼 Experience
 
-### Python Full Stack Developer Virtual Internship
+## Python Full Stack Developer Virtual Internship
 
-🏢 EduSkills Academy
+🏢 EduSkills Academy | Apr 2025 – Jun 2025
 
-Worked on Python-based full stack development and gained practical experience in application workflows.
+Worked on Python-based full stack application development and gained practical exposure to software development workflows.
 
 ---
 
 # 🏆 Certifications
 
 🥇 SAP Certified – Back-End Developer – ABAP Cloud
+
 🥇 NPTEL Elite – Introduction to Machine Learning
+
 🥈 Programming in Java – NPTEL
+
 🥈 Introduction to Database Systems – NPTEL
+
 🏅 Python Full Stack Developer Virtual Internship
 
 ---
@@ -110,7 +115,9 @@ Worked on Python-based full stack development and gained practical experience in
 # 🏅 Achievements
 
 🥈 Pentathon 2.0 — Second Prize
+
 🏆 TechKnow — Best Project (Fire Fighting Robot)
+
 🏅 SharpAIthon 2025 — Round 2 Shortlisted
 
 ---
@@ -119,8 +126,8 @@ Worked on Python-based full stack development and gained practical experience in
 
 🔹 AI Navigation System
 🔹 Prompt Engineering Projects
-🔹 Full Stack Development
-🔹 Software Development Portfolio
+🔹 Full Stack Development Portfolio
+🔹 Real-World Software Projects
 
 ---
 
@@ -142,16 +149,18 @@ Worked on Python-based full stack development and gained practical experience in
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 💼 LinkedIn
-[www.linkedin.com/in/husna-juman](http://www.linkedin.com/in/husna-juman)
+https://linkedin.com/in/husna-juman
 
 💻 GitHub
-github.com/husnajuman5
+https://github.com/husnajuman5
 
 ---
 
 <p align="center">
-⭐ Building technology with creativity and impact.
+
+⭐ Building software with creativity and real-world impact.
+
 </p>
